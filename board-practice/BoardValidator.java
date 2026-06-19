@@ -1,3 +1,4 @@
+//C계정이 수정한다~
 public class BoardValidator {
 public static void validate(Board board) {
 if (board.getTitle() == null || board.getTitle().isEmpty())
