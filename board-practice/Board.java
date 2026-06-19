@@ -4,6 +4,7 @@ public class Board {
 private int id;
 private String title;
 private String author;
+private String contents;
 }
 // feature/A: 조회수 기능 추가
 private int viewCount = 0;
