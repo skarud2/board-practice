@@ -1,3 +1,4 @@
+//B계정이 추가한 내용이닷!
 public class Board {
 private int id;
 private String title;
