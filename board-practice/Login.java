@@ -1,4 +1,4 @@
 //로그인
-public void Login{
-    void login() {}
+public class Login{
+    public void login() {}
 }
